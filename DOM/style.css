@@ -1,0 +1,16 @@
+h1{
+    color: yellow;
+    background-color: red;
+}
+
+#one{
+    color: pink;
+}
+
+.two{
+    color: blue;
+    background-color: brown;
+    height: 300px;
+    width: 250px;
+}
+

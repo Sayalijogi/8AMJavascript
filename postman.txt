@@ -1,0 +1,16 @@
+//GET  ==> retrive
+//POST ==> Create
+//PUT => Update
+//DELETE
+
+https://reqres.in/
+
+
+https://reqres.in/api/users?page=2
+
+
+
+//Base url and parameter
+//Base Url => https://reqres.in/
+//Path parameter => /api/users
+//Query Parameter => ?page=2
